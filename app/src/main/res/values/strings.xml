@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Insight</string>
+    <string name="provider" translatable="false">"com.insight.divyamjoshi.insight"</string>
+    <string name="content_provider_label" translatable="false">HeadlinesContentProvider</string>
+    <string name="account_type" translatable="false">com.insight.divyamjoshi.insight.syncadapter</string>
+    <string name="title_activity_category_selection">News</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4276208530377668/9442445565</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="toast_msg">Welcome to insight</string>
+    <string name="internet_msg"> No internet</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next"> Next</string>
+    <string name="backdrop_title">NEWS</string>
+    <string name="backdrop_subtitle">Thats connect you with world</string>
+</resources>

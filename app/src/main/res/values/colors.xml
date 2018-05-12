@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#F50057</color>
+    <color name="primary_dark">#F50057</color>
+    <color name="primary_light">#E1BEE7</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#f1f5f8</color>
+    <color name="secondary_text">#f1f5f8</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+
+    <color name="colorCardView">#FFFFFF</color>
+</resources>

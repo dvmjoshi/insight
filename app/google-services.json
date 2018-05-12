@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "23121633426",
+    "firebase_url": "https://insight-49759.firebaseio.com",
+    "project_id": "insight-49759",
+    "storage_bucket": "insight-49759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23121633426:android:0c71823e5cc4b081",
+        "android_client_info": {
+          "package_name": "com.insight.divyamjoshi.insight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23121633426-54uklh8snb7h5d7i4mvcno6q3mlgftnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVgeIb7DtaTuGbAGUEKrZKMHUNOQY7IVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
